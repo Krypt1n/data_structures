@@ -1,0 +1,10 @@
+1. Array
+2. Dynamic array
+3. Linked list
+4. Stack
+5. Queue
+6. Set
+7. Map
+8. Binary search tree
+9. Trie
+10. Graph
